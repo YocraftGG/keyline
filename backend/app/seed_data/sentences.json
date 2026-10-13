@@ -1,0 +1,102 @@
+[
+  {
+    "text": "The sun is shining.",
+    "difficulty": "easy",
+    "category": "general"
+  },
+  {
+    "text": "I like to read books.",
+    "difficulty": "easy",
+    "category": "general"
+  },
+  {
+    "text": "The dog runs in the park.",
+    "difficulty": "easy",
+    "category": "general"
+  },
+  {
+    "text": "Today is a beautiful day.",
+    "difficulty": "easy",
+    "category": "general"
+  },
+  {
+    "text": "Practice makes progress.",
+    "difficulty": "easy",
+    "category": "education"
+  },
+  {
+    "text": "Learning to type takes consistent practice.",
+    "difficulty": "medium",
+    "category": "education"
+  },
+  {
+    "text": "The computer processes information using electrical signals.",
+    "difficulty": "medium",
+    "category": "technology"
+  },
+  {
+    "text": "A good programmer writes code that is easy to understand.",
+    "difficulty": "medium",
+    "category": "technology"
+  },
+  {
+    "text": "Reading every day can improve vocabulary and concentration.",
+    "difficulty": "medium",
+    "category": "education"
+  },
+  {
+    "text": "Scientists use experiments to test their ideas and explain observations.",
+    "difficulty": "medium",
+    "category": "science"
+  },
+  {
+    "text": "Software development requires careful planning, logical thinking, and patience.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "When an application encounters an unexpected error, it should recover gracefully.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "Reliable systems validate input, handle failures, and protect sensitive information.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "In 2026, developers continue to explore how artificial intelligence can solve complex problems.",
+    "difficulty": "hard",
+    "category": "science"
+  },
+  {
+    "text": "Debugging is not simply finding mistakes; it is understanding why the program behaved unexpectedly.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "Before saving a test result, the server should validate the user's data and verify their identity.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "The quick brown fox jumps over the lazy dog.",
+    "difficulty": "medium",
+    "category": "typing"
+  },
+  {
+    "text": "Small improvements, repeated consistently, can lead to impressive results over time.",
+    "difficulty": "medium",
+    "category": "general"
+  },
+  {
+    "text": "A database foreign key ensures that every test references an existing user.",
+    "difficulty": "hard",
+    "category": "technology"
+  },
+  {
+    "text": "To calculate words per minute, divide the number of typed characters by five, then divide by the elapsed time in minutes.",
+    "difficulty": "hard",
+    "category": "typing"
+  }
+]

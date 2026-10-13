@@ -1,0 +1,8 @@
+mysql-connector-python
+fastapi
+uvicorn
+pydantic[email]
+python-dotenv
+pwdlib[argon2]
+requests
+PyJWT
